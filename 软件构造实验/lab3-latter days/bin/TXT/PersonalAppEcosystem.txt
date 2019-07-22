@@ -1,0 +1,40 @@
+User ::= TimWong
+
+InstallLog ::= <2019-01-01,13:00:00,Wechat>
+InstallLog ::= <2019-01-01,13:19:28,Eleme>
+InstallLog ::= <2019-01-01,13:29:28,Didi>
+InstallLog ::= <2019-01-02,12:59:28,QQ>
+InstallLog ::= <2019-01-02,13:01:01,Weibo>
+InstallLog ::= <2019-01-02,13:19:30,BaiduMap>
+
+UninstallLog ::= <2019-01-02,12:00:28,Eleme>
+UninstallLog ::= <2019-01-02,13:00:28,Didi>
+
+UsageLog ::= <2019-01-01,15:00:00,Wechat,2>
+UsageLog ::= <2019-01-01,16:00:00,Wechat,30>
+UsageLog ::= <2019-01-01,17:00:00,Wechat,18>
+UsageLog ::= <2019-01-01,18:00:00,Wechat,5>
+UsageLog ::= <2019-01-01,15:30:00,Eleme,10>
+UsageLog ::= <2019-01-02,08:30:00,Eleme,8>
+UsageLog ::= <2019-01-01,23:40:59,Eleme,20>
+UsageLog ::= <2019-01-02,15:00:00,QQ,20>
+UsageLog ::= <2019-01-02,16:00:00,QQ,3>
+UsageLog ::= <2019-01-02,15:30:00,Wechat,1>
+UsageLog ::= <2019-01-03,11:00:00,Weibo,10>
+UsageLog ::= <2019-01-03,09:00:00,BaiduMap,400>
+
+
+App ::= <Wechat,Tencent,13.2,"The most popular social networking App in China","Social network">
+App ::= <QQ,Tencent,29.2,"The second popular social networking App in China","Social network">
+App ::= <Weibo,Sina,v0.2.3.4,"The third popular social networking App in China","Social network">
+App ::= <Didi,Didi,ver03.32,"The most popular car sharing App in China","Travel">
+App ::= <Eleme,Eleme,20V0.03,"The most popular online food ordering App in China","Food">
+App ::= <BaiduMap,Baidu,2.9000000.20v03,"The most popular map App in China","Travel">
+
+Period ::= Day
+
+
+Relation ::= <Wechat,QQ>
+Relation ::= <Wechat,Eleme>
+Relation ::= <Didi,BaiduMap>
+Relation ::= <QQ,Weibo>

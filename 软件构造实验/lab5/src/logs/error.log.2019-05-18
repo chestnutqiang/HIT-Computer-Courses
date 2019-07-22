@@ -1,0 +1,348 @@
+2019-05-13 14:38:45  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-13 14:38:45  [ main:9 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-13 14:38:45  [ main:10 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>
+2019-05-12 16:41:21  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 16:41:21  [ main:4 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 16:41:49  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 16:41:49  [ main:16 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 16:43:16  [ main:0 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378.137, 194368,29.783,CW,0> : 194368 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:43:16  [ main:6 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 16:43:16  [ main:6 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 16:43:38  [ main:0 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378.137, 1943684325346526424234235,29.783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:43:38  [ main:3 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 16:43:38  [ main:4 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 16:43:54  [ main:0 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378.137, 1943684325346526424234235,29.783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:43:54  [ main:6 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 16:43:54  [ main:17 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 16:44:28  [ main:1 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 16:44:28  [ main:5 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378.137, 1943684325346526424234235,29.783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:44:28  [ main:6 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 16:44:28  [ main:7 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 16:44:30  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 16:44:30  [ main:6 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378.137, 1943684325346526424234235,29.783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:44:30  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 16:44:30  [ main:9 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 16:45:16  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 16:45:16  [ main:6 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:45:16  [ main:6 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:45:16  [ main:7 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:45:16  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 16:45:16  [ main:9 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 16:45:53  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 16:45:53  [ main:6 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:45:53  [ main:6 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:45:53  [ main:6 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:45:53  [ main:7 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Saturn,wxw1170500704,Red,2378,1.49e6,2.33e5,CCW,39.21>
+2019-05-12 16:45:53  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 16:45:53  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 16:46:50  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 16:46:50  [ main:5 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:46:50  [ main:6 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:46:50  [ main:6 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:46:50  [ main:7 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-12 16:46:50  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 16:46:50  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 16:49:45  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 16:49:45  [ main:6 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:49:45  [ main:6 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:49:45  [ main:7 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:49:45  [ main:7 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-12 16:49:45  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 16:49:45  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 16:49:45  [ main:9 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-12 16:49:45  [ main:10 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 16:49:45  [ main:10 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-12 16:49:45  [ main:11 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>
+2019-05-12 16:52:26  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 16:52:26  [ main:4 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:52:26  [ main:5 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:52:26  [ main:5 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:52:26  [ main:6 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-12 16:52:26  [ main:7 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 16:52:26  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 16:52:26  [ main:8 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-12 16:52:26  [ main:9 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 16:52:26  [ main:9 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-12 16:53:39  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 16:53:39  [ main:8 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:53:39  [ main:9 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:53:39  [ main:10 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-12 16:53:39  [ main:12 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-12 16:53:39  [ main:14 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 16:53:39  [ main:16 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 16:53:39  [ main:20 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-12 16:53:39  [ main:20 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 16:53:39  [ main:21 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-12 17:04:08  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:04:08  [ main:5 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:04:08  [ main:6 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:04:08  [ main:7 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:04:08  [ main:7 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-12 17:04:08  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 17:04:08  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 17:04:08  [ main:9 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-12 17:04:08  [ main:10 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:04:08  [ main:10 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-12 17:04:08  [ main:12 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-12 17:04:08  [ main:14 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-12 17:04:43  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:04:43  [ main:6 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:04:43  [ main:7 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:04:43  [ main:7 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:04:43  [ main:7 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-12 17:04:43  [ main:9 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 17:04:43  [ main:10 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 17:04:43  [ main:11 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-12 17:04:43  [ main:12 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:04:43  [ main:13 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-12 17:05:16  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:05:16  [ main:3 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:05:16  [ main:5 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:05:16  [ main:5 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:05:16  [ main:5 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-12 17:05:16  [ main:5 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 17:05:16  [ main:6 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 17:05:16  [ main:7 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-12 17:05:16  [ main:7 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:05:16  [ main:7 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-12 17:05:43  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:05:43  [ main:10 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:05:43  [ main:10 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:05:43  [ main:11 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:05:43  [ main:13 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-12 17:05:43  [ main:14 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 17:05:43  [ main:15 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 17:05:43  [ main:17 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-12 17:05:43  [ main:17 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:05:43  [ main:18 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-12 17:05:43  [ main:19 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-12 17:05:43  [ main:20 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-12 17:05:59  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:05:59  [ main:8 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:05:59  [ main:9 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:05:59  [ main:10 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:05:59  [ main:10 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-12 17:05:59  [ main:11 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 17:05:59  [ main:12 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 17:05:59  [ main:13 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-12 17:05:59  [ main:14 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:05:59  [ main:15 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-12 17:05:59  [ main:17 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-12 17:05:59  [ main:18 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-12 17:06:17  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:06:17  [ main:13 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:06:17  [ main:14 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:06:17  [ main:15 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:06:17  [ main:23 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-12 17:06:17  [ main:33 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 17:06:17  [ main:34 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 17:06:17  [ main:35 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-12 17:06:17  [ main:35 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:06:17  [ main:36 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-12 17:06:17  [ main:43 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-12 17:10:39  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:10:39  [ main:4 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:10:39  [ main:4 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:10:39  [ main:4 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:10:39  [ main:5 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-12 17:10:39  [ main:5 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 17:10:39  [ main:6 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 17:10:39  [ main:7 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-12 17:10:39  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:10:39  [ main:9 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-12 17:10:39  [ main:11 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-12 17:10:39  [ main:12 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-12 17:10:39  [ main:12 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-12 17:10:39  [ main:13 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>
+2019-05-12 17:10:42  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:10:42  [ main:8 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:10:42  [ main:13 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:10:42  [ main:14 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:10:42  [ main:15 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-12 17:10:42  [ main:16 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 17:10:42  [ main:17 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 17:10:42  [ main:22 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-12 17:10:42  [ main:26 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:10:42  [ main:27 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-12 17:10:42  [ main:29 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-12 17:10:42  [ main:32 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-12 17:10:42  [ main:32 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-12 17:10:42  [ main:33 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>
+2019-05-12 17:33:30  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:33:30  [ main:3 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:33:30  [ main:4 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:33:30  [ main:4 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-12 17:33:30  [ main:5 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-12 17:33:30  [ main:6 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-12 17:33:30  [ main:6 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-12 17:33:30  [ main:7 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-12 17:33:30  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-12 17:33:30  [ main:8 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-12 17:33:30  [ main:10 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-12 17:33:30  [ main:11 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-12 17:33:30  [ main:12 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-12 17:33:30  [ main:12 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>
+2019-05-12 18:10:20  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:10:20  [ main:4 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTeuhywevciudracks ::= 5
+2019-05-12 18:10:20  [ main:4 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1 ,expected 0 parameters,but is 5 parameters
+2019-05-12 18:11:25  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:11:25  [ main:2 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTeuhywevciudracks ::= 5
+2019-05-12 18:11:25  [ main:3 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1 ,expected 0 parameters,but is 5 parameters
+2019-05-12 18:11:50  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:11:50  [ main:2 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTeuhywevciudracks ::= 5
+2019-05-12 18:11:50  [ main:3 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1 ,expected 0 parameters,but is 5 parameters
+2019-05-12 18:13:09  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:13:18  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:13:51  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:14:19  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:16:58  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:16:58  [ main:3 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-12 18:17:03  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:17:03  [ main:6 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-12 18:19:53  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:19:53  [ main:4 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-12 18:19:53  [ main:5 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1 ,expected 0 parameters,but is 5 parameters
+2019-05-12 18:20:27  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:20:27  [ main:3 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-12 18:20:27  [ main:3 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1 ,expected 0 parameters,but is 5 parameters
+2019-05-12 18:21:57  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:21:57  [ main:3 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-12 18:21:57  [ main:4 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-12 18:22:02  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:22:02  [ main:5 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-12 18:22:02  [ main:6 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-12 18:24:29  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:24:29  [ main:3 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-12 18:24:29  [ main:4 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-12 18:25:21  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:25:21  [ main:3 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-12 18:25:21  [ main:4 ] - [ ERROR ]  [Electron] syntax exception at NumberOfElectron ::is 1/2;2/8;3/18;4/8;5/1
+2019-05-12 18:25:21  [ main:4 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-12 18:25:23  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:25:23  [ main:6 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-12 18:25:23  [ main:7 ] - [ ERROR ]  [Electron] syntax exception at NumberOfElectron ::is 1/2;2/8;3/18;4/8;5/1
+2019-05-12 18:25:23  [ main:8 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-12 18:25:53  [ main:0 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-12 18:25:53  [ main:4 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-12 18:25:53  [ main:6 ] - [ ERROR ]  [Electron] syntax exception at NumberOfElectron ::is 1/2;2/8;3/18;4/8;5/1
+2019-05-12 18:25:53  [ main:6 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-12 18:43:33  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-12 18:43:33  [ main:3 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-12 18:43:33  [ main:4 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-12 18:44:12  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-12 18:44:12  [ main:3 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-12 18:44:12  [ main:3 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-12 18:44:51  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-12 18:44:51  [ main:3 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-12 18:44:51  [ main:4 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-12 18:44:51  [ main:6 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, LisaWong, 1.98> this relation's intimacy is out of range
+2019-05-12 18:44:51  [ main:6 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie ::= <TommyWong, TomWong, -0.2>
+2019-05-12 18:44:51  [ main:6 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TomWong, FrankLee, 5.71> this relation's intimacy is out of range
+2019-05-12 18:45:24  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-12 18:45:24  [ main:3 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-12 18:45:24  [ main:4 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-12 18:45:24  [ main:7 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, LisaWong, 1.98> this relation's intimacy is out of range
+2019-05-12 18:45:24  [ main:7 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie ::= <TommyWong, TomWong, -0.2>
+2019-05-12 18:45:24  [ main:8 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TomWong, FrankLee, 5.71> this relation's intimacy is out of range
+2019-05-12 18:45:24  [ main:9 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M>
+2019-05-12 18:45:51  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-12 18:45:51  [ main:3 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-12 18:45:51  [ main:5 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-12 18:45:51  [ main:6 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, LisaWong, 1.98> this relation's intimacy is out of range
+2019-05-12 18:45:51  [ main:6 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie ::= <TommyWong, TomWong, -0.2>
+2019-05-12 18:45:51  [ main:7 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TomWong, FrankLee, 5.71> this relation's intimacy is out of range
+2019-05-12 18:45:51  [ main:8 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M>
+2019-05-12 18:46:27  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-12 18:46:27  [ main:4 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-12 18:46:27  [ main:5 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-12 18:46:27  [ main:7 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, LisaWong, 1.98> this relation's intimacy is out of range
+2019-05-12 18:46:27  [ main:7 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie ::= <TommyWong, TomWong, -0.2>
+2019-05-12 18:46:27  [ main:7 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TomWong, FrankLee, 5.71> this relation's intimacy is out of range
+2019-05-12 18:46:33  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-12 18:46:33  [ main:6 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-12 18:46:33  [ main:7 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-12 18:46:33  [ main:10 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, LisaWong, 1.98> this relation's intimacy is out of range
+2019-05-12 18:46:33  [ main:10 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie ::= <TommyWong, TomWong, -0.2>
+2019-05-12 18:46:33  [ main:11 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TomWong, FrankLee, 5.71> this relation's intimacy is out of range
+2019-05-12 18:47:40  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-12 18:47:40  [ main:5 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-12 18:47:40  [ main:6 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-12 18:47:40  [ main:8 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, LisaWong, 1.98> this relation's intimacy is out of range
+2019-05-12 18:47:40  [ main:9 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie ::= <TommyWong, TomWong, -0.2>
+2019-05-12 18:47:40  [ main:9 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TomWong, FrankLee, 5.71> this relation's intimacy is out of range
+2019-05-12 18:47:40  [ main:11 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, TommyWong, 0.98> this relation haves two same people
+2019-05-12 18:48:45  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-12 18:48:45  [ main:4 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-12 18:48:45  [ main:4 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-12 18:48:45  [ main:6 ] - [ ERROR ]  [SocialNetwork] wrong parameter number at CentralUser ::= <TommyWong,30,M,wxw> ,exception 3 parameters,but is 4 prameters
+2019-05-12 18:48:45  [ main:7 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M,wxw>
+2019-05-12 18:49:47  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-12 18:49:47  [ main:7 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-12 18:49:47  [ main:8 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-12 18:49:47  [ main:10 ] - [ ERROR ]  [SocialNetwork] wrong parameter number at CentralUser ::= <TommyWong,30,M,wxw> ,exception 3 parameters,but is 4 prameters
+2019-05-12 18:49:47  [ main:11 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, LisaWong, 1.98> this relation's intimacy is out of range
+2019-05-12 18:49:47  [ main:12 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie ::= <TommyWong, TomWong, -0.2>
+2019-05-12 18:49:47  [ main:12 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TomWong, FrankLee, 5.71> this relation's intimacy is out of range
+2019-05-12 18:49:47  [ main:13 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, TommyWong, 0.98> this relation haves two same people
+2019-05-18 19:41:48  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-18 19:41:48  [ main:2 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0>
+2019-05-18 19:41:48  [ main:3 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,20.085>
+2019-05-18 19:41:48  [ main:3 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,39.21>
+2019-05-18 19:41:48  [ main:4 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Jupiter,Gas,Blue       ,1637.007,2e8,30,CW,70>
+2019-05-18 19:41:48  [ main:4 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-18 19:41:48  [ main:4 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Neptune,Liquid,Yellow,6627.137,1.49e5,9293.05,CCW,360>
+2019-05-18 19:41:48  [ main:5 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-18 19:41:48  [ main:5 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Venus,Solid,Red,6378.137,1.49e20,203.24,CCW,181.23>
+2019-05-18 19:51:37  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-18 19:51:37  [ main:2 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-18 19:51:37  [ main:2 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-18 19:51:37  [ main:4 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>
+2019-05-18 19:51:37  [ main:4 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Jupiter,Gas,Blue       ,1637.007,2e8,30,CW,70>
+2019-05-18 19:51:37  [ main:5 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-18 19:51:37  [ main:7 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Neptune,Liquid,Yellow,6627.137,1.49e5,9293.05,CCW,360>
+2019-05-18 19:51:37  [ main:7 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-18 19:51:37  [ main:7 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Venus,Solid,Red,6378.137,1.49e20,203.24,CCW,181.23>
+2019-05-18 19:52:25  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-18 19:52:25  [ main:2 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-18 19:52:25  [ main:3 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-18 19:52:25  [ main:3 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>
+2019-05-18 19:52:25  [ main:4 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Jupiter,Gas,Blue       ,1637.007,2e8,30,CW,70>
+2019-05-18 19:52:25  [ main:4 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-18 19:52:25  [ main:6 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Neptune,Liquid,Yellow,6627.137,1.49e5,9293.05,CCW,360>
+2019-05-18 19:52:25  [ main:7 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-18 19:52:25  [ main:7 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Venus,Solid,Red,6378.137,1.49e20,203.24,CCW,181.23>
+2019-05-18 19:54:18  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-18 19:54:18  [ main:3 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0>
+2019-05-18 19:54:18  [ main:4 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,20.085>
+2019-05-18 19:54:18  [ main:4 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,39.21>
+2019-05-18 19:54:18  [ main:5 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Jupiter,Gas,Blue       ,1637.007,2e8,30,CW,70>
+2019-05-18 19:54:18  [ main:5 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-18 19:54:18  [ main:7 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Neptune,Liquid,Yellow,6627.137,1.49e5,9293.05,CCW,360>
+2019-05-18 19:54:18  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-18 19:54:18  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Venus,Solid,Red,6378.137,1.49e20,203.24,CCW,181.23>
+2019-05-18 19:58:40  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-18 19:58:40  [ main:3 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0>
+2019-05-18 19:58:40  [ main:3 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,20.085>
+2019-05-18 19:58:40  [ main:4 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,39.21>
+2019-05-18 19:58:40  [ main:4 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Jupiter,Gas,Blue       ,1637.007,2e8,30,CW,70>
+2019-05-18 19:58:40  [ main:4 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-18 19:58:40  [ main:7 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Neptune,Liquid,Yellow,6627.137,1.49e5,9293.05,CCW,360>
+2019-05-18 19:58:40  [ main:7 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-18 19:58:40  [ main:7 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Venus,Solid,Red,6378.137,1.49e20,203.24,CCW,181.23>
+2019-05-18 20:00:00  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-18 20:00:00  [ main:8 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-18 20:00:00  [ main:8 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>
+2019-05-18 20:00:27  [ main:0 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-18 20:00:27  [ main:5 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-18 20:00:27  [ main:6 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-18 20:00:27  [ main:6 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-18 20:00:27  [ main:7 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-18 20:00:27  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-18 20:00:27  [ main:8 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-18 20:00:27  [ main:9 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-18 20:00:27  [ main:10 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-18 20:00:27  [ main:10 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-18 20:00:27  [ main:12 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-18 20:00:27  [ main:14 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-18 20:00:27  [ main:14 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-18 20:00:27  [ main:15 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>

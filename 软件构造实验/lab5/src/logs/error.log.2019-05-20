@@ -1,0 +1,130 @@
+2019-05-20 20:13:38  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-20 20:13:38  [ main:5 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-20 20:13:38  [ main:7 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-20 20:13:38  [ main:8 ] - [ ERROR ]  [SocialNetwork] wrong parameter number at CentralUser ::= <TommyWong,30,M,wxw> ,exception 3 parameters,but is 4 prameters
+2019-05-20 20:13:38  [ main:9 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, LisaWong, 1.98> this relation's intimacy is out of range
+2019-05-20 20:13:38  [ main:9 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie ::= <TommyWong, TomWong, -0.2>
+2019-05-20 20:13:38  [ main:14 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TomWong, FrankLee, 5.71> this relation's intimacy is out of range
+2019-05-20 20:13:38  [ main:17 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, TommyWong, 0.98> this relation haves two same people
+2019-05-20 20:13:38  [ main:23 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-20 20:13:38  [ main:24 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-20 20:13:38  [ main:26 ] - [ ERROR ]  [Electron] syntax exception at NumberOfElectron ::is 1/2;2/8;3/18;4/8;5/1
+2019-05-20 20:13:38  [ main:27 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-20 20:13:41  [ main:2872 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-20 20:13:41  [ main:2872 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-20 20:13:41  [ main:2872 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-20 20:13:41  [ main:2872 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-20 20:13:41  [ main:2872 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-20 20:13:41  [ main:2878 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-20 20:13:41  [ main:2878 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-20 20:13:41  [ main:2878 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-20 20:13:41  [ main:2878 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-20 20:13:41  [ main:2878 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-20 20:13:41  [ main:2894 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-20 20:13:41  [ main:2895 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-20 20:13:41  [ main:2895 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-20 20:13:41  [ main:2895 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>
+2019-05-20 20:29:14  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-20 20:29:14  [ main:3 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-20 20:29:14  [ main:4 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-20 20:29:14  [ main:7 ] - [ ERROR ]  [SocialNetwork] wrong parameter number at CentralUser ::= <TommyWong,30,M,wxw> ,exception 3 parameters,but is 4 prameters
+2019-05-20 20:29:14  [ main:10 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, LisaWong, 1.98> this relation's intimacy is out of range
+2019-05-20 20:29:14  [ main:11 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie ::= <TommyWong, TomWong, -0.2>
+2019-05-20 20:29:14  [ main:12 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TomWong, FrankLee, 5.71> this relation's intimacy is out of range
+2019-05-20 20:29:14  [ main:13 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, TommyWong, 0.98> this relation haves two same people
+2019-05-20 20:29:14  [ main:16 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-20 20:29:14  [ main:19 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-20 20:29:14  [ main:20 ] - [ ERROR ]  [Electron] syntax exception at NumberOfElectron ::is 1/2;2/8;3/18;4/8;5/1
+2019-05-20 20:29:14  [ main:21 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-20 20:29:17  [ main:2820 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-20 20:29:17  [ main:2820 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-20 20:29:17  [ main:2820 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-20 20:29:17  [ main:2820 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-20 20:29:17  [ main:2820 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-20 20:29:17  [ main:2820 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-20 20:29:17  [ main:2820 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-20 20:29:17  [ main:2820 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-20 20:29:17  [ main:2820 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-20 20:29:17  [ main:2836 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-20 20:29:17  [ main:2836 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-20 20:29:17  [ main:2836 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-20 20:29:17  [ main:2836 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-20 20:29:17  [ main:2836 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>
+2019-05-20 20:38:23  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-20 20:38:23  [ main:6 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-20 20:38:23  [ main:6 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-20 20:38:23  [ main:6 ] - [ ERROR ]  [SocialNetwork] wrong parameter number at CentralUser ::= <TommyWong,30,M,wxw> ,exception 3 parameters,but is 4 prameters
+2019-05-20 20:38:23  [ main:6 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, LisaWong, 1.98> this relation's intimacy is out of range
+2019-05-20 20:38:23  [ main:6 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie ::= <TommyWong, TomWong, -0.2>
+2019-05-20 20:38:23  [ main:6 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TomWong, FrankLee, 5.71> this relation's intimacy is out of range
+2019-05-20 20:38:23  [ main:22 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, TommyWong, 0.98> this relation haves two same people
+2019-05-20 20:38:23  [ main:33 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-20 20:38:23  [ main:34 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-20 20:38:23  [ main:34 ] - [ ERROR ]  [Electron] syntax exception at NumberOfElectron ::is 1/2;2/8;3/18;4/8;5/1
+2019-05-20 20:38:23  [ main:34 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-20 20:38:26  [ main:2977 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-20 20:38:26  [ main:2977 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-20 20:38:26  [ main:2978 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-20 20:38:26  [ main:2978 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-20 20:38:26  [ main:2978 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-20 20:38:26  [ main:2978 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-20 20:38:26  [ main:2978 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-20 20:38:26  [ main:2978 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-20 20:38:26  [ main:2978 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-20 20:38:26  [ main:2978 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-20 20:38:26  [ main:2978 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-20 20:38:26  [ main:2978 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-20 20:38:26  [ main:2978 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-20 20:38:26  [ main:2993 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>
+2019-05-20 21:11:22  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-20 21:11:22  [ main:10 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-20 21:11:22  [ main:10 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-20 21:11:22  [ main:13 ] - [ ERROR ]  [SocialNetwork] wrong parameter number at CentralUser ::= <TommyWong,30,M,wxw> ,exception 3 parameters,but is 4 prameters
+2019-05-20 21:11:22  [ main:13 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, LisaWong, 1.98> this relation's intimacy is out of range
+2019-05-20 21:11:22  [ main:14 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie ::= <TommyWong, TomWong, -0.2>
+2019-05-20 21:11:22  [ main:14 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TomWong, FrankLee, 5.71> this relation's intimacy is out of range
+2019-05-20 21:11:22  [ main:16 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, TommyWong, 0.98> this relation haves two same people
+2019-05-20 21:11:22  [ main:19 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-20 21:11:22  [ main:20 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-20 21:11:22  [ main:21 ] - [ ERROR ]  [Electron] syntax exception at NumberOfElectron ::is 1/2;2/8;3/18;4/8;5/1
+2019-05-20 21:11:22  [ main:22 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-20 21:11:25  [ main:2880 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-20 21:11:25  [ main:2889 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-20 21:11:25  [ main:2889 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-20 21:11:25  [ main:2889 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-20 21:11:25  [ main:2889 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-20 21:11:25  [ main:2889 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-20 21:11:25  [ main:2889 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-20 21:11:25  [ main:2889 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-20 21:11:25  [ main:2889 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-20 21:11:25  [ main:2889 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-20 21:11:25  [ main:2889 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-20 21:11:25  [ main:2905 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-20 21:11:25  [ main:2905 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-20 21:11:25  [ main:2905 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>
+2019-05-20 22:16:04  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-20 22:16:04  [ main:18 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-20 22:16:04  [ main:29 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-20 22:16:04  [ main:31 ] - [ ERROR ]  [SocialNetwork] wrong parameter number at CentralUser ::= <TommyWong,30,M,wxw> ,exception 3 parameters,but is 4 prameters
+2019-05-20 22:16:04  [ main:32 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, LisaWong, 1.98> this relation's intimacy is out of range
+2019-05-20 22:16:04  [ main:33 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie ::= <TommyWong, TomWong, -0.2>
+2019-05-20 22:16:04  [ main:33 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TomWong, FrankLee, 5.71> this relation's intimacy is out of range
+2019-05-20 22:16:04  [ main:35 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, TommyWong, 0.98> this relation haves two same people
+2019-05-20 22:16:04  [ main:41 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-20 22:16:04  [ main:42 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-20 22:16:04  [ main:43 ] - [ ERROR ]  [Electron] syntax exception at NumberOfElectron ::is 1/2;2/8;3/18;4/8;5/1
+2019-05-20 22:16:04  [ main:58 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-20 22:16:06  [ main:2841 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-20 22:16:06  [ main:2843 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-20 22:16:06  [ main:2843 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-20 22:16:06  [ main:2844 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-20 22:16:06  [ main:2845 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-20 22:16:06  [ main:2851 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-20 22:16:06  [ main:2852 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-20 22:16:06  [ main:2854 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-20 22:16:06  [ main:2854 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-20 22:16:06  [ main:2861 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-20 22:16:06  [ main:2862 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-20 22:16:06  [ main:2872 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-20 22:16:06  [ main:2874 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-20 22:16:06  [ main:2885 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>

@@ -1,0 +1,439 @@
+2019-05-21 00:01:48  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-21 00:01:48  [ main:9 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-21 00:01:48  [ main:10 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-21 00:01:48  [ main:11 ] - [ ERROR ]  [SocialNetwork] wrong parameter number at CentralUser ::= <TommyWong,30,M,wxw> ,exception 3 parameters,but is 4 prameters
+2019-05-21 00:01:48  [ main:12 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, LisaWong, 1.98> this relation's intimacy is out of range
+2019-05-21 00:01:48  [ main:12 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie ::= <TommyWong, TomWong, -0.2>
+2019-05-21 00:01:48  [ main:14 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TomWong, FrankLee, 5.71> this relation's intimacy is out of range
+2019-05-21 00:01:48  [ main:16 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, TommyWong, 0.98> this relation haves two same people
+2019-05-21 00:01:48  [ main:20 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-21 00:01:48  [ main:21 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-21 00:01:48  [ main:22 ] - [ ERROR ]  [Electron] syntax exception at NumberOfElectron ::is 1/2;2/8;3/18;4/8;5/1
+2019-05-21 00:01:48  [ main:22 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-21 00:01:48  [ main:39 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 00:01:48  [ main:48 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 00:01:48  [ main:50 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 00:01:48  [ main:56 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 00:01:48  [ main:64 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 00:01:48  [ main:67 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 00:01:48  [ main:71 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 00:01:48  [ main:74 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 00:01:48  [ main:75 ] - [ INFO ]  [SocialNetwork] caculate the spread of a friend in social system
+2019-05-21 00:01:48  [ main:75 ] - [ INFO ]  [SocialNetwork] caculate the spread of a friend in social system
+2019-05-21 00:01:48  [ main:81 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 00:01:48  [ main:83 ] - [ INFO ]  [SocialNetwork] add a relation between two friends in social system
+2019-05-21 00:01:48  [ main:83 ] - [ INFO ]  [SocialNetwork] delete a relation between two friends in social system
+2019-05-21 00:01:48  [ main:83 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 00:01:48  [ main:83 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 00:01:48  [ main:93 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 00:01:48  [ main:93 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 00:01:48  [ main:95 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 00:01:48  [ main:96 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 00:01:48  [ main:96 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 00:01:48  [ main:110 ] - [ INFO ]  [SocialNetwork] delete a relation between two friends in social system
+2019-05-21 00:01:48  [ main:111 ] - [ INFO ]  [SocialNetwork] add a relation between two friends in social system
+2019-05-21 00:01:48  [ main:115 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 00:01:48  [ main:116 ] - [ INFO ]  [Stellar] caculate angle of Neptune at time 50000000
+2019-05-21 00:01:48  [ main:117 ] - [ INFO ]  [Stellar] caculate angle of Saturn at time 50000000
+2019-05-21 00:01:48  [ main:119 ] - [ INFO ]  [Stellar] caculate angle of Mercury at time 50000000
+2019-05-21 00:01:48  [ main:120 ] - [ INFO ]  [Stellar] caculate angle of Earth at time 50000000
+2019-05-21 00:01:48  [ main:120 ] - [ INFO ]  [Stellar] caculate angle of Jupiter at time 50000000
+2019-05-21 00:01:48  [ main:120 ] - [ INFO ]  [Stellar] caculate angle of Mars at time 50000000
+2019-05-21 00:01:48  [ main:122 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 00:01:48  [ main:122 ] - [ INFO ]  [Stellar] add a planet at a track
+2019-05-21 00:01:48  [ main:123 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 00:01:48  [ main:124 ] - [ INFO ]  [Stellar] delete a planet track
+2019-05-21 00:01:48  [ main:124 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 00:01:48  [ main:124 ] - [ INFO ]  [Stellar] caculate the distance of w and w
+2019-05-21 00:01:48  [ main:132 ] - [ INFO ]  [Stellar] add a new Steller
+2019-05-21 00:01:48  [ main:134 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 00:01:48  [ main:134 ] - [ INFO ]  [Stellar] add a relation between Sun toNeptune
+2019-05-21 00:01:48  [ main:149 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 00:01:48  [ main:250 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle_Medium.txt
+2019-05-21 00:01:50  [ main:1827 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 00:01:50  [ main:1850 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle_Medium.txt
+2019-05-21 00:01:51  [ main:2936 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 00:01:51  [ main:2942 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 00:01:51  [ main:2942 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 00:01:51  [ main:2942 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 00:01:51  [ main:2943 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 00:01:51  [ main:2961 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem_Medium.txt
+2019-05-21 00:01:51  [ main:3040 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 00:01:51  [ main:3049 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem_Medium.txt
+2019-05-21 00:01:51  [ main:3099 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 00:01:51  [ main:3099 ] - [ INFO ]  [Stellar] caculate the distance of Neptune and Saturn
+2019-05-21 00:01:51  [ main:3115 ] - [ INFO ]  [Stellar] caculate the distance of Neptune and Mercury
+2019-05-21 00:01:51  [ main:3121 ] - [ INFO ]  [Stellar] caculate the distance of Mercury and Saturn
+2019-05-21 00:01:51  [ main:3124 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 00:01:51  [ main:3132 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 00:01:51  [ main:3134 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 00:01:51  [ main:3134 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure_Medium.txt
+2019-05-21 00:01:51  [ main:3139 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 00:01:51  [ main:3139 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure_Medium.txt
+2019-05-21 00:01:51  [ main:3139 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 00:01:51  [ main:3139 ] - [ INFO ]  [Electron] add a relation between two electrons
+2019-05-21 00:01:51  [ main:3139 ] - [ INFO ]  [Electron] add a relation between two electrons
+2019-05-21 00:01:51  [ main:3139 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 00:01:51  [ main:3139 ] - [ INFO ]  [Electron] add a electron on a track
+2019-05-21 00:01:51  [ main:3139 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 00:01:51  [ main:3155 ] - [ INFO ]  [Electron] add a relation between two electrons
+2019-05-21 00:01:51  [ main:3155 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 00:01:51  [ main:3155 ] - [ INFO ]  [Electron] a electron transmits to another track in nuclues system
+2019-05-21 00:01:51  [ main:3155 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 00:01:51  [ main:3155 ] - [ INFO ]  [Electron] remove a track in nuclues system
+2019-05-21 00:01:51  [ main:3155 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 00:01:51  [ main:3155 ] - [ INFO ]  [Electron] a electron transmits to another track in nuclues system
+2019-05-21 00:01:51  [ main:3155 ] - [ INFO ]  [Electron] Return to the previous state
+2019-05-21 00:01:51  [ main:3171 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 00:01:51  [ main:3171 ] - [ INFO ]  [Electron] add a new track in nuclues system
+2019-05-21 00:01:51  [ main:3171 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 00:01:51  [ main:3171 ] - [ INFO ]  [Electron] add a nuclues in nuclues system
+2019-05-21 00:01:51  [ main:3171 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 00:01:51  [ main:3171 ] - [ INFO ]  [Electron] add a relation between a electron and a nuclues
+2019-05-21 00:01:51  [ main:3171 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-21 00:01:51  [ main:3186 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-21 00:01:51  [ main:3186 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-21 00:01:51  [ main:3186 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-21 00:01:51  [ main:3186 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-21 00:01:51  [ main:3186 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-21 00:01:51  [ main:3186 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-21 00:01:51  [ main:3186 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-21 00:01:51  [ main:3186 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-21 00:01:51  [ main:3186 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-21 00:01:51  [ main:3186 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-21 00:01:51  [ main:3186 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-21 00:01:51  [ main:3186 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-21 00:01:51  [ main:3202 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>
+2019-05-21 20:37:09  [ main:0 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 20:44:37  [ main:0 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 20:59:09  [ main:0 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 20:59:29  [ main:0 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 21:02:59  [ main:0 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 21:04:02  [ main:0 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 21:04:25  [ main:0 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 21:06:21  [ main:0 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 21:23:34  [ main:0 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:24:17  [ main:0 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:40:37  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-21 23:40:37  [ main:10 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-21 23:40:37  [ main:10 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-21 23:40:37  [ main:11 ] - [ ERROR ]  [SocialNetwork] wrong parameter number at CentralUser ::= <TommyWong,30,M,wxw> ,exception 3 parameters,but is 4 prameters
+2019-05-21 23:40:37  [ main:11 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, LisaWong, 1.98> this relation's intimacy is out of range
+2019-05-21 23:40:37  [ main:11 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie ::= <TommyWong, TomWong, -0.2>
+2019-05-21 23:40:37  [ main:11 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TomWong, FrankLee, 5.71> this relation's intimacy is out of range
+2019-05-21 23:40:37  [ main:21 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, TommyWong, 0.98> this relation haves two same people
+2019-05-21 23:40:37  [ main:22 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-21 23:40:37  [ main:30 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-21 23:40:37  [ main:31 ] - [ ERROR ]  [Electron] syntax exception at NumberOfElectron ::is 1/2;2/8;3/18;4/8;5/1
+2019-05-21 23:40:37  [ main:31 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-21 23:40:37  [ main:51 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:40:37  [ main:72 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:40:37  [ main:72 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:40:37  [ main:88 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:40:37  [ main:100 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:40:37  [ main:109 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:40:37  [ main:112 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:40:37  [ main:116 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:40:37  [ main:117 ] - [ INFO ]  [SocialNetwork] caculate the spread of a friend in social system
+2019-05-21 23:40:37  [ main:117 ] - [ INFO ]  [SocialNetwork] caculate the spread of a friend in social system
+2019-05-21 23:40:37  [ main:121 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:40:37  [ main:123 ] - [ INFO ]  [SocialNetwork] add a relation between two friends in social system
+2019-05-21 23:40:37  [ main:123 ] - [ INFO ]  [SocialNetwork] delete a relation between two friends in social system
+2019-05-21 23:40:37  [ main:124 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:40:37  [ main:124 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:40:37  [ main:124 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:40:37  [ main:124 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:40:37  [ main:124 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:40:37  [ main:124 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:40:37  [ main:140 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:40:37  [ main:144 ] - [ INFO ]  [SocialNetwork] delete a relation between two friends in social system
+2019-05-21 23:40:37  [ main:145 ] - [ INFO ]  [SocialNetwork] add a relation between two friends in social system
+2019-05-21 23:40:37  [ main:145 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:40:37  [ main:145 ] - [ INFO ]  [Stellar] caculate angle of Neptune at time 50000000
+2019-05-21 23:40:37  [ main:145 ] - [ INFO ]  [Stellar] caculate angle of Saturn at time 50000000
+2019-05-21 23:40:37  [ main:145 ] - [ INFO ]  [Stellar] caculate angle of Mercury at time 50000000
+2019-05-21 23:40:37  [ main:145 ] - [ INFO ]  [Stellar] caculate angle of Earth at time 50000000
+2019-05-21 23:40:37  [ main:145 ] - [ INFO ]  [Stellar] caculate angle of Jupiter at time 50000000
+2019-05-21 23:40:37  [ main:145 ] - [ INFO ]  [Stellar] caculate angle of Mars at time 50000000
+2019-05-21 23:40:37  [ main:157 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:40:37  [ main:157 ] - [ INFO ]  [Stellar] add a planet at a track
+2019-05-21 23:40:37  [ main:157 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:40:37  [ main:157 ] - [ INFO ]  [Stellar] delete a planet track
+2019-05-21 23:40:37  [ main:174 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:40:37  [ main:174 ] - [ INFO ]  [Stellar] caculate the distance of w and w
+2019-05-21 23:40:37  [ main:194 ] - [ INFO ]  [Stellar] add a new Steller
+2019-05-21 23:40:37  [ main:198 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:40:37  [ main:200 ] - [ INFO ]  [Stellar] add a relation between Sun toNeptune
+2019-05-21 23:40:37  [ main:202 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:40:37  [ main:255 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle_Medium.txt
+2019-05-21 23:40:39  [ main:2033 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:40:39  [ main:2051 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle_Medium.txt
+2019-05-21 23:40:40  [ main:3375 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:40:40  [ main:3376 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:40:40  [ main:3376 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:40:40  [ main:3377 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:40:40  [ main:3378 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:40:40  [ main:3391 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem_Medium.txt
+2019-05-21 23:40:40  [ main:3474 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:40:40  [ main:3474 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem_Medium.txt
+2019-05-21 23:40:40  [ main:3518 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:40:40  [ main:3518 ] - [ INFO ]  [Stellar] caculate the distance of Neptune and Saturn
+2019-05-21 23:40:40  [ main:3518 ] - [ INFO ]  [Stellar] caculate the distance of Neptune and Mercury
+2019-05-21 23:40:40  [ main:3541 ] - [ INFO ]  [Stellar] caculate the distance of Mercury and Saturn
+2019-05-21 23:40:40  [ main:3543 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:40:40  [ main:3547 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:40:40  [ main:3547 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:40:40  [ main:3547 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure_Medium.txt
+2019-05-21 23:40:40  [ main:3550 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:40:40  [ main:3551 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure_Medium.txt
+2019-05-21 23:40:40  [ main:3555 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:40:40  [ main:3556 ] - [ INFO ]  [Electron] add a relation between two electrons
+2019-05-21 23:40:40  [ main:3557 ] - [ INFO ]  [Electron] add a relation between two electrons
+2019-05-21 23:40:40  [ main:3560 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:40:40  [ main:3561 ] - [ INFO ]  [Electron] add a electron on a track
+2019-05-21 23:40:40  [ main:3561 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:40:40  [ main:3563 ] - [ INFO ]  [Electron] add a relation between two electrons
+2019-05-21 23:40:40  [ main:3564 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:40:40  [ main:3565 ] - [ INFO ]  [Electron] a electron transmits to another track in nuclues system
+2019-05-21 23:40:40  [ main:3565 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:40:40  [ main:3569 ] - [ INFO ]  [Electron] remove a track in nuclues system
+2019-05-21 23:40:40  [ main:3571 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:40:40  [ main:3571 ] - [ INFO ]  [Electron] a electron transmits to another track in nuclues system
+2019-05-21 23:40:40  [ main:3572 ] - [ INFO ]  [Electron] Return to the previous state
+2019-05-21 23:40:40  [ main:3572 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:40:40  [ main:3572 ] - [ INFO ]  [Electron] add a new track in nuclues system
+2019-05-21 23:40:40  [ main:3572 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:40:40  [ main:3572 ] - [ INFO ]  [Electron] add a nuclues in nuclues system
+2019-05-21 23:40:40  [ main:3572 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:40:40  [ main:3572 ] - [ INFO ]  [Electron] add a relation between a electron and a nuclues
+2019-05-21 23:40:40  [ main:3572 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-21 23:40:40  [ main:3572 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-21 23:40:40  [ main:3578 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-21 23:40:40  [ main:3578 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-21 23:40:40  [ main:3579 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-21 23:40:40  [ main:3580 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-21 23:40:40  [ main:3580 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-21 23:40:40  [ main:3580 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-21 23:40:40  [ main:3580 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-21 23:40:40  [ main:3587 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-21 23:40:40  [ main:3588 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-21 23:40:40  [ main:3588 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-21 23:40:40  [ main:3588 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-21 23:40:40  [ main:3588 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>
+2019-05-21 23:44:31  [ main:0 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-21 23:44:31  [ main:3 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-21 23:44:31  [ main:4 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-21 23:44:31  [ main:7 ] - [ ERROR ]  [SocialNetwork] wrong parameter number at CentralUser ::= <TommyWong,30,M,wxw> ,exception 3 parameters,but is 4 prameters
+2019-05-21 23:44:31  [ main:8 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, LisaWong, 1.98> this relation's intimacy is out of range
+2019-05-21 23:44:31  [ main:10 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie ::= <TommyWong, TomWong, -0.2>
+2019-05-21 23:44:31  [ main:11 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TomWong, FrankLee, 5.71> this relation's intimacy is out of range
+2019-05-21 23:44:31  [ main:13 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, TommyWong, 0.98> this relation haves two same people
+2019-05-21 23:44:31  [ main:16 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-21 23:44:31  [ main:18 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-21 23:44:31  [ main:19 ] - [ ERROR ]  [Electron] syntax exception at NumberOfElectron ::is 1/2;2/8;3/18;4/8;5/1
+2019-05-21 23:44:31  [ main:19 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-21 23:44:31  [ main:29 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:44:31  [ main:42 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:44:31  [ main:45 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:44:31  [ main:48 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:44:31  [ main:61 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:44:31  [ main:66 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:44:31  [ main:69 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:44:31  [ main:73 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:44:31  [ main:74 ] - [ INFO ]  [SocialNetwork] caculate the spread of a friend in social system
+2019-05-21 23:44:31  [ main:74 ] - [ INFO ]  [SocialNetwork] caculate the spread of a friend in social system
+2019-05-21 23:44:31  [ main:78 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:44:31  [ main:80 ] - [ INFO ]  [SocialNetwork] add a relation between two friends in social system
+2019-05-21 23:44:31  [ main:81 ] - [ INFO ]  [SocialNetwork] delete a relation between two friends in social system
+2019-05-21 23:44:31  [ main:81 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:44:31  [ main:81 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:44:31  [ main:81 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:44:31  [ main:81 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:44:31  [ main:81 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:44:31  [ main:97 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:44:31  [ main:97 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:44:31  [ main:97 ] - [ INFO ]  [SocialNetwork] delete a relation between two friends in social system
+2019-05-21 23:44:31  [ main:97 ] - [ INFO ]  [SocialNetwork] add a relation between two friends in social system
+2019-05-21 23:44:31  [ main:97 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:44:31  [ main:97 ] - [ INFO ]  [Stellar] caculate angle of Neptune at time 50000000
+2019-05-21 23:44:31  [ main:97 ] - [ INFO ]  [Stellar] caculate angle of Saturn at time 50000000
+2019-05-21 23:44:31  [ main:97 ] - [ INFO ]  [Stellar] caculate angle of Mercury at time 50000000
+2019-05-21 23:44:31  [ main:113 ] - [ INFO ]  [Stellar] caculate angle of Earth at time 50000000
+2019-05-21 23:44:31  [ main:113 ] - [ INFO ]  [Stellar] caculate angle of Jupiter at time 50000000
+2019-05-21 23:44:31  [ main:113 ] - [ INFO ]  [Stellar] caculate angle of Mars at time 50000000
+2019-05-21 23:44:31  [ main:113 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:44:31  [ main:113 ] - [ INFO ]  [Stellar] add a planet at a track
+2019-05-21 23:44:31  [ main:113 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:44:31  [ main:113 ] - [ INFO ]  [Stellar] delete a planet track
+2019-05-21 23:44:31  [ main:113 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:44:31  [ main:133 ] - [ INFO ]  [Stellar] caculate the distance of w and w
+2019-05-21 23:44:31  [ main:147 ] - [ INFO ]  [Stellar] add a new Steller
+2019-05-21 23:44:31  [ main:152 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:44:31  [ main:156 ] - [ INFO ]  [Stellar] add a relation between Sun toNeptune
+2019-05-21 23:44:31  [ main:159 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:44:32  [ main:209 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle_Medium.txt
+2019-05-21 23:44:33  [ main:1504 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:44:33  [ main:1521 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle_Medium.txt
+2019-05-21 23:44:34  [ main:2672 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:44:34  [ main:2675 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:44:34  [ main:2675 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:44:34  [ main:2675 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:44:34  [ main:2677 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:44:34  [ main:2692 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem_Medium.txt
+2019-05-21 23:44:34  [ main:2763 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:44:34  [ main:2773 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem_Medium.txt
+2019-05-21 23:44:34  [ main:2814 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:44:34  [ main:2822 ] - [ INFO ]  [Stellar] caculate the distance of Neptune and Saturn
+2019-05-21 23:44:34  [ main:2824 ] - [ INFO ]  [Stellar] caculate the distance of Neptune and Mercury
+2019-05-21 23:44:34  [ main:2824 ] - [ INFO ]  [Stellar] caculate the distance of Mercury and Saturn
+2019-05-21 23:44:34  [ main:2834 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:44:34  [ main:2838 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:44:34  [ main:2842 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:44:34  [ main:2844 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure_Medium.txt
+2019-05-21 23:44:34  [ main:2844 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:44:34  [ main:2848 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure_Medium.txt
+2019-05-21 23:44:34  [ main:2848 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:44:34  [ main:2848 ] - [ INFO ]  [Electron] add a relation between two electrons
+2019-05-21 23:44:34  [ main:2854 ] - [ INFO ]  [Electron] add a relation between two electrons
+2019-05-21 23:44:34  [ main:2855 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:44:34  [ main:2855 ] - [ INFO ]  [Electron] add a electron on a track
+2019-05-21 23:44:34  [ main:2855 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:44:34  [ main:2855 ] - [ INFO ]  [Electron] add a relation between two electrons
+2019-05-21 23:44:34  [ main:2855 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:44:34  [ main:2855 ] - [ INFO ]  [Electron] a electron transmits to another track in nuclues system
+2019-05-21 23:44:34  [ main:2862 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:44:34  [ main:2862 ] - [ INFO ]  [Electron] remove a track in nuclues system
+2019-05-21 23:44:34  [ main:2862 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:44:34  [ main:2862 ] - [ INFO ]  [Electron] a electron transmits to another track in nuclues system
+2019-05-21 23:44:34  [ main:2864 ] - [ INFO ]  [Electron] Return to the previous state
+2019-05-21 23:44:34  [ main:2864 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:44:34  [ main:2864 ] - [ INFO ]  [Electron] add a new track in nuclues system
+2019-05-21 23:44:34  [ main:2864 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:44:34  [ main:2864 ] - [ INFO ]  [Electron] add a nuclues in nuclues system
+2019-05-21 23:44:34  [ main:2864 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:44:34  [ main:2873 ] - [ INFO ]  [Electron] add a relation between a electron and a nuclues
+2019-05-21 23:44:34  [ main:2875 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-21 23:44:34  [ main:2876 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-21 23:44:34  [ main:2876 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-21 23:44:34  [ main:2876 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-21 23:44:34  [ main:2876 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-21 23:44:34  [ main:2876 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-21 23:44:34  [ main:2876 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-21 23:44:34  [ main:2883 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-21 23:44:34  [ main:2883 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-21 23:44:34  [ main:2885 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-21 23:44:34  [ main:2885 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-21 23:44:34  [ main:2895 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-21 23:44:34  [ main:2895 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-21 23:44:34  [ main:2895 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>
+2019-05-21 23:47:47  [ main:1 ] - [ ERROR ]  [SocialNetwork] syntax exception at CentralUser ::= <TommyWong,30,M
+2019-05-21 23:47:47  [ main:7 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie :"""web:= <FrankLee, DavidChen, 0.02>
+2019-05-21 23:47:47  [ main:7 ] - [ ERROR ]  [SocialNetwork] syntax exception at Friend ::===== <LisaWong, 25, F>
+2019-05-21 23:47:47  [ main:17 ] - [ ERROR ]  [SocialNetwork] wrong parameter number at CentralUser ::= <TommyWong,30,M,wxw> ,exception 3 parameters,but is 4 prameters
+2019-05-21 23:47:47  [ main:21 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, LisaWong, 1.98> this relation's intimacy is out of range
+2019-05-21 23:47:47  [ main:21 ] - [ ERROR ]  [SocialNetwork] syntax exception at SocialTie ::= <TommyWong, TomWong, -0.2>
+2019-05-21 23:47:47  [ main:22 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TomWong, FrankLee, 5.71> this relation's intimacy is out of range
+2019-05-21 23:47:47  [ main:23 ] - [ ERROR ]  [SocialNetwork] SocialTie ::= <TommyWong, TommyWong, 0.98> this relation haves two same people
+2019-05-21 23:47:47  [ main:30 ] - [ ERROR ]  [Electron] syntax exception at ElementName :::::::= Rb
+2019-05-21 23:47:47  [ main:32 ] - [ ERROR ]  [Electron] syntax exception at NumberOfTracks :   := 5
+2019-05-21 23:47:47  [ main:34 ] - [ ERROR ]  [Electron] syntax exception at NumberOfElectron ::is 1/2;2/8;3/18;4/8;5/1
+2019-05-21 23:47:47  [ main:34 ] - [ ERROR ]  [Electron] incorrect dependency exception at NumberOfElectron ::= 1/2;2/8;3/18;4/8;5/1;6/122 ,expected 5 parameters,but is 6 parameters
+2019-05-21 23:47:47  [ main:43 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:47:47  [ main:55 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:47:47  [ main:58 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:47:47  [ main:58 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:47:47  [ main:88 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:47:47  [ main:95 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:47:47  [ main:105 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:47:47  [ main:108 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:47:47  [ main:112 ] - [ INFO ]  [SocialNetwork] caculate the spread of a friend in social system
+2019-05-21 23:47:47  [ main:113 ] - [ INFO ]  [SocialNetwork] caculate the spread of a friend in social system
+2019-05-21 23:47:47  [ main:116 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:47:47  [ main:121 ] - [ INFO ]  [SocialNetwork] add a relation between two friends in social system
+2019-05-21 23:47:47  [ main:121 ] - [ INFO ]  [SocialNetwork] delete a relation between two friends in social system
+2019-05-21 23:47:47  [ main:124 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:47:47  [ main:128 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:47:47  [ main:128 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:47:47  [ main:134 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:47:47  [ main:135 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:47:47  [ main:151 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:47:47  [ main:158 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:47:47  [ main:158 ] - [ INFO ]  [SocialNetwork] delete a relation between two friends in social system
+2019-05-21 23:47:47  [ main:158 ] - [ INFO ]  [SocialNetwork] add a relation between two friends in social system
+2019-05-21 23:47:47  [ main:158 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:47:47  [ main:175 ] - [ INFO ]  [Stellar] caculate angle of Neptune at time 50000000
+2019-05-21 23:47:47  [ main:178 ] - [ INFO ]  [Stellar] caculate angle of Saturn at time 50000000
+2019-05-21 23:47:47  [ main:178 ] - [ INFO ]  [Stellar] caculate angle of Mercury at time 50000000
+2019-05-21 23:47:47  [ main:179 ] - [ INFO ]  [Stellar] caculate angle of Earth at time 50000000
+2019-05-21 23:47:47  [ main:179 ] - [ INFO ]  [Stellar] caculate angle of Jupiter at time 50000000
+2019-05-21 23:47:47  [ main:180 ] - [ INFO ]  [Stellar] caculate angle of Mars at time 50000000
+2019-05-21 23:47:47  [ main:185 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:47:47  [ main:187 ] - [ INFO ]  [Stellar] add a planet at a track
+2019-05-21 23:47:47  [ main:191 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:47:47  [ main:193 ] - [ INFO ]  [Stellar] delete a planet track
+2019-05-21 23:47:47  [ main:194 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:47:47  [ main:196 ] - [ INFO ]  [Stellar] caculate the distance of w and w
+2019-05-21 23:47:47  [ main:204 ] - [ INFO ]  [Stellar] add a new Steller
+2019-05-21 23:47:47  [ main:211 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:47:47  [ main:217 ] - [ INFO ]  [Stellar] add a relation between Sun toNeptune
+2019-05-21 23:47:47  [ main:219 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:47:48  [ main:268 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle_Medium.txt
+2019-05-21 23:47:49  [ main:1582 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:47:49  [ main:1607 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle_Medium.txt
+2019-05-21 23:47:50  [ main:2769 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:47:50  [ main:2775 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:47:50  [ main:2775 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:47:50  [ main:2776 ] - [ INFO ]  [SocialNetwork] caculate the logical distance between two friends in social system
+2019-05-21 23:47:50  [ main:2777 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:47:50  [ main:2818 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem_Medium.txt
+2019-05-21 23:47:50  [ main:2890 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:47:50  [ main:2891 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem_Medium.txt
+2019-05-21 23:47:50  [ main:2931 ] - [ INFO ]  [Stellar] constract a StellarSystem from src/TXT/StellarSystem.txt
+2019-05-21 23:47:50  [ main:2931 ] - [ INFO ]  [Stellar] caculate the distance of Neptune and Saturn
+2019-05-21 23:47:50  [ main:2931 ] - [ INFO ]  [Stellar] caculate the distance of Neptune and Mercury
+2019-05-21 23:47:50  [ main:2952 ] - [ INFO ]  [Stellar] caculate the distance of Mercury and Saturn
+2019-05-21 23:47:50  [ main:2998 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:47:50  [ main:2998 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:47:50  [ main:2998 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:47:50  [ main:2998 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure_Medium.txt
+2019-05-21 23:47:50  [ main:2998 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:47:50  [ main:2998 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure_Medium.txt
+2019-05-21 23:47:50  [ main:2998 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:47:50  [ main:2998 ] - [ INFO ]  [Electron] add a relation between two electrons
+2019-05-21 23:47:50  [ main:3021 ] - [ INFO ]  [Electron] add a relation between two electrons
+2019-05-21 23:47:50  [ main:3022 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:47:50  [ main:3022 ] - [ INFO ]  [Electron] add a electron on a track
+2019-05-21 23:47:50  [ main:3022 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:47:50  [ main:3022 ] - [ INFO ]  [Electron] add a relation between two electrons
+2019-05-21 23:47:50  [ main:3030 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:47:50  [ main:3032 ] - [ INFO ]  [Electron] a electron transmits to another track in nuclues system
+2019-05-21 23:47:50  [ main:3033 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:47:50  [ main:3033 ] - [ INFO ]  [Electron] remove a track in nuclues system
+2019-05-21 23:47:50  [ main:3034 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:47:50  [ main:3034 ] - [ INFO ]  [Electron] a electron transmits to another track in nuclues system
+2019-05-21 23:47:50  [ main:3035 ] - [ INFO ]  [Electron] Return to the previous state
+2019-05-21 23:47:50  [ main:3035 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:47:50  [ main:3035 ] - [ INFO ]  [Electron] add a new track in nuclues system
+2019-05-21 23:47:50  [ main:3035 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:47:50  [ main:3035 ] - [ INFO ]  [Electron] add a nuclues in nuclues system
+2019-05-21 23:47:50  [ main:3044 ] - [ INFO ]  [Electron] constract a nuclues system from src/TXT/AtomicStructure.txt
+2019-05-21 23:47:50  [ main:3046 ] - [ INFO ]  [Electron] add a relation between a electron and a nuclues
+2019-05-21 23:47:50  [ main:3048 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-21 23:47:50  [ main:3049 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :6378784137 is bigger than 10000 but don't use Scientific counting
+2019-05-21 23:47:50  [ main:3049 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> : 1943684325346526424234235 is bigger than 10000 but don't use Scientific counting
+2019-05-21 23:47:50  [ main:3049 ] - [ ERROR ]  [Stellar] Planet ::= <Earth,Solid,Blue,6378784137, 1943684325346526424234235,293366366783,CW,0> :293366366783 is bigger than 10000 but don't use Scientific counting
+2019-05-21 23:47:50  [ main:3049 ] - [ ERROR ]  [Stellar] syntaxException at Planet ::= <Saturn,wxw,Red,2378,1.49e6,2.33e5,CCW,39.21> ,this planet is not Solid or Liquid or Gas
+2019-05-21 23:47:50  [ main:3049 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::ewjfuyuew= <Mars,Solid,Red,637.137,9.99e10, 1000.93,CCW,110>
+2019-05-21 23:47:50  [ main:3049 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::===================== <Uranus,Gas,    Blue,637.137,1.49e11,1e5,CW,359>
+2019-05-21 23:47:50  [ main:3060 ] - [ ERROR ]  [Stellar] parameter exception at steller,excepted 3 parameter3,but is 4 parameters
+2019-05-21 23:47:50  [ main:3060 ] - [ ERROR ]  [Stellar] Syntax Ecception at Stellar
+2019-05-21 23:47:50  [ main:3062 ] - [ ERROR ]  [Stellar] parameter exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,0,1,1,7,0,5,0,0,7,0,4>, except 8 parameters,but is 18 parameters
+2019-05-21 23:47:50  [ main:3062 ] - [ ERROR ]  [Stellar] Earth  this planet occurs twice!!!
+2019-05-21 23:47:50  [ main:3063 ] - [ ERROR ]  [Stellar] Syntax Exception at Planet ::= <Earth,Solid,Blue,6378.137, 1.49e8,29.783,CW,-123>
+2019-05-21 23:47:50  [ main:3064 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,               69,CW,2770.736>
+2019-05-21 23:47:50  [ main:3064 ] - [ ERROR ]  [Stellar] wrong angle at Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,487784.48>
+2019-05-21 23:52:52  [ main:0 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:53:19  [ main:0 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:53:37  [ main:0 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:54:09  [ main:0 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt
+2019-05-21 23:54:56  [ main:0 ] - [ INFO ]  [SocialNetwork]constract network from src/TXT/SocialNetworkCircle.txt

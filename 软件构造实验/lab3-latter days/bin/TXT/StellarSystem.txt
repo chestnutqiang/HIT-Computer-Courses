@@ -1,0 +1,9 @@
+Stellar ::= <Sun,6.96392e5,1.9885e30>
+Planet ::= <Earth,Solid,Blue,6378.137,1.49e8,29.783,CW,0>
+Planet ::= <Mercury,Solid,Dark,1378.137,1.49e7,69,CW,20.085>
+Planet ::= <Saturn,Liquid,Red,2378,1.49e6,2.33e5,CCW,39.21>
+Planet ::= <Jupiter,Gas,Blue,1637.007,2e8,30,CW,70>
+Planet ::= <Mars,Silid,Red,637.137,9.99e10,1000.93,CCW,110>
+Planet ::= <Neptune,Liquid,Yellow,6627.137,1.49e5,9293.05,CCW,360>
+Planet ::= <Uranus,Gas,Blue,637.137,1.49e11,1e5,CW,359>
+Planet ::= <Venus,Solid,Red,6378.137,1.49e20,203.24,CCW,181.23>
